@@ -55,4 +55,4 @@ This code is then translated into graphical images, making it easier to integrat
 
 ---
 
-> To explore and view all the available documentation and functionality, you can check the documentation at the following link: [diagrams docs](https://diagrams.mingrammer.com/docs)
+> To explore and view all the available documentation and functionality, you can check the documentation at the following link: [diagrams docs](https://diagrams.mingrammer.com/)
