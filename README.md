@@ -2,8 +2,10 @@
 
 ---
 
-# 🎨 Doc as Diagrams  
+# 🎨 Diagram-as-Code: Creating Dynamic and Interactive Documentation for Visual Content
 **Diagram as Code** is an approach that allows you to create diagrams through code instead of traditional graphic tools. Instead of manually building diagrams, you can write code in a text file to define the structure, components, and connections of your diagrams.  
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8htajk1ztiftm5we9x2y.png)
 
 This code is then translated into graphical images, making it easier to integrate and document in software projects, where it is especially useful for creating and updating architectural and flow diagrams programmatically.
 
